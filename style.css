@@ -69,7 +69,7 @@ font-size: 17px;
     cursor: pointer;
 }
 
-.link{
+.links{
   float: left;
     padding-top: 5px;
     padding-left: 9px;
@@ -78,4 +78,7 @@ font-size: 17px;
     font-family: cursive;
     font-size: 30px;
         
+}
+.links:hover{
+    background-color:crimson;
 }
